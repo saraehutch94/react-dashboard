@@ -1,4 +1,4 @@
-function SentimentAnalysis() {
+function Analysis() {
   return (
     <>
       <h1>Sentiment Analysis</h1>
@@ -9,4 +9,4 @@ function SentimentAnalysis() {
   );
 }
 
-export default SentimentAnalysis;
+export default Analysis;

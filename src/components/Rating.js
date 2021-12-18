@@ -1,4 +1,4 @@
-function AverageRating() {
+function Rating() {
   return (
     <>
       <h1>Average Rating</h1>
@@ -7,4 +7,4 @@ function AverageRating() {
   );
 }
 
-export default AverageRating;
+export default Rating;
