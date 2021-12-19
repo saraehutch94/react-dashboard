@@ -8,6 +8,24 @@
   padding: 0 30px 0 30px;
 }
 
+.top-bar-flex {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  display: flex;
+  align-items: center;
+}
+
+.top-bar-img {
+  width: 26px;
+  height: 26px;
+  margin-right: 7px;
+}
+
+.app-title {
+  font-size: 17px;
+}
+
 .app-wrapper {
   height: 70vh;
   display: grid;

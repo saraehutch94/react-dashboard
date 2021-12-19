@@ -8,6 +8,10 @@ import Visitors from "./components/Visitors";
 function App() {
   return (
     <div className="whole-app">
+      <div className="top-bar-flex">
+        <img className="top-bar-img" src="https://i.imgur.com/4K2VSma.png" />
+        <div className="app-title">Sarify</div>
+      </div>
       <div className="app-wrapper">
         <Sidebar />
         <Reviews />
