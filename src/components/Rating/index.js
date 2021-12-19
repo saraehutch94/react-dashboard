@@ -3,7 +3,7 @@ import "./Rating.css";
 function Rating() {
   return (
     <div className="rating-section">
-      <h1>Average Rating</h1>
+      <h4>Average Rating</h4>
       <p>4.6</p>
     </div>
   );
