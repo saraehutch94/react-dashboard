@@ -1,6 +1,8 @@
+import "./Visitors.css";
+
 function Visitors() {
   return (
-    <div>
+    <div className="visitors-section">
       <h1>Website Visitors</h1>
       <p>821</p>
     </div>
