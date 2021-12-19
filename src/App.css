@@ -1,9 +1,10 @@
 .whole-app {
-  background-color: rgb(47, 43, 61);
+  background-color: rgb(44, 39, 56);
   padding: 30px;
 }
 
 .app-wrapper {
   display: grid;
+  grid-gap: 1rem;
   grid-template-columns: repeat(4, 1fr);
 }
