@@ -4,7 +4,9 @@
 }
 
 .app-wrapper {
+  min-height: 575px;
   display: grid;
   grid-gap: 1rem;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: 1fr 1.25fr 1.25fr 1.25fr;
+  grid-template-rows: repeat(2, 1fr);
 }
