@@ -12,6 +12,7 @@ function App() {
         <img className="top-bar-img" src="https://i.imgur.com/4K2VSma.png" />
         <div className="app-title">Sarify</div>
       </div>
+      <img className="top-bar-exit" src="https://i.imgur.com/vbAzjj2.png" />
       <div className="app-wrapper">
         <Sidebar />
         <Reviews />

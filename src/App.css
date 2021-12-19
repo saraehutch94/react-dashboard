@@ -22,6 +22,15 @@
   margin-right: 7px;
 }
 
+.top-bar-exit {
+  width: 20px;
+  height: 20px;
+  filter: brightness(0) invert(1);
+  position: absolute;
+  top: 7px;
+  right: 7px;
+}
+
 .app-title {
   font-size: 17px;
 }
