@@ -2,3 +2,7 @@
   padding: 20px;
   background-color: rgb(32, 29, 41);
 }
+
+.review-number {
+  font-size: 2rem;
+}

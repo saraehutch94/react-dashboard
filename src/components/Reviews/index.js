@@ -4,7 +4,9 @@ function Reviews() {
   return (
     <div className="reviews-section">
       <div>Reviews</div>
-      <p>1,281</p>
+      <div className="number-section">
+        <p className="review-number">1,281</p>
+      </div>
     </div>
   );
 }

@@ -1,16 +1,15 @@
 .whole-app {
   background-color: rgb(44, 39, 56);
-  border-radius: 25px;
-  height: 650px;
-  width: 975px;
+  height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+  padding: 0 30px 0 30px;
 }
 
 .app-wrapper {
-  height: 575px;
-  width: 900px;
+  height: 70vh;
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: 1fr 1.25fr 1.25fr 1.25fr;
