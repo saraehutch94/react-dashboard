@@ -1,5 +1,6 @@
 .whole-app {
   background-color: rgb(44, 39, 56);
+  border-radius: 25px;
   height: 650px;
   width: 975px;
   display: flex;

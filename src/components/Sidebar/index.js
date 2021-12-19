@@ -4,7 +4,7 @@ function Sidebar() {
   return (
     <div className="nav-section">
       <nav>
-        <div className="nav-item">Dashboard</div>
+        <div className="nav-item-dashboard">Dashboard</div>
         <div className="nav-item">Widget</div>
         <div className="nav-item">Reviews</div>
         <div className="nav-item">Customers</div>

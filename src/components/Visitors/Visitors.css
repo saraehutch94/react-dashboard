@@ -1,4 +1,5 @@
 .visitors-section {
+  border-radius: 25px;
   background-color: rgb(32, 29, 41);
   grid-column: 2 / 5;
 }
