@@ -2,10 +2,18 @@
   padding: 20px;
   background-color: rgb(32, 29, 41);
   grid-column: 2 / 5;
+  display: flex;
+  align-items: center;
   position: relative;
 }
 
-.numbers {
-  margin-left: 30px;
-  font-size: 2rem;
+.visitors-title {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+
+.visitors-number {
+  font-size: 1.75rem;
+  text-align: right;
 }
