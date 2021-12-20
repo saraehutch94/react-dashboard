@@ -2,14 +2,10 @@
   padding: 20px;
   background-color: rgb(32, 29, 41);
   grid-column: 2 / 5;
+  position: relative;
 }
 
 .numbers {
   margin-left: 30px;
   font-size: 2rem;
-}
-
-.visitors-graph {
-  width: 450px;
-  height: 400px;
 }

@@ -12,3 +12,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.analysis-number {
+  font-size: 2rem;
+}
